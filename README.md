@@ -1,5 +1,5 @@
 # macOS-Shortcut-for-Netskope-Client-Pinning
-A macOS Shortcut that provides a simple menu-driven interface to pin, unpin, or review which Netskope Data Center or region the Netskope Client is connected to, without needing to open Terminal.
+A macOS Shortcut that provides a simple menu-driven interface to pin, unpin, or review which Netskope Data Center or region the Netskope Client is connected to for Secure Web Gateway capabilities, without needing to open Terminal.
 
 ## Requirements
 - macOS **Sequoia** (not tested in earlier versions)
