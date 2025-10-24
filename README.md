@@ -8,6 +8,11 @@ A macOS Shortcut that provides a simple menu-driven interface to pin, unpin, or 
 
 See https://docs.netskope.com/en/data-center-pinning-in-netskope-client for more details.
 
+## Demo
+https://github.com/user-attachments/assets/068b4646-a955-4bda-97c8-5bcc71f81c07
+
+
+
 ## Usage
 1. Clone or download this repository.
 2. Open the file `Netskope Data Center Selection.shortcut` and click **Add Shortcut**.
