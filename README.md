@@ -26,7 +26,7 @@ The first time you select an option, macOS may prompt for permission to run scri
 ### Triggering the Shortcut
 
 You can run the Shortcut directly from the macOS Shortcuts app, but it’s often more convenient to trigger it using one of the following methods:
-- **Menu Bar:** Enable “Pin Netskope Data Center” in the Shortcuts section of the macOS menu bar for quick access without opening the app.  
+- **Menu Bar:** Enable “Netskope Data Center Selection” in the Shortcuts section of the macOS menu bar for quick access without opening the app.  
 - **Keyboard Shortcut:** Assign a hotkey to open the Shortcut.
 - **Macro Key/Stream Deck:** Map the Shortcut to a macro key or Stream Deck button.  
 - **Spotlight/Siri:** Run it by typing or saying the Shortcut name, e.g., “Run Netskope Data Center Selection.”
