@@ -3,7 +3,7 @@ A macOS Shortcut that provides a simple menu-driven interface to pin, unpin, or 
 
 ## Requirements
 - macOS **Sequoia** (not tested in earlier versions)
-- Netskope Client **R137** or higher
+- Netskope Client **R127** or higher
 - Data Center Pinning enabled for Netskope Client *(currently in beta and not enabled by default)*
 
 See https://docs.netskope.com/en/data-center-pinning-in-netskope-client for more details.
