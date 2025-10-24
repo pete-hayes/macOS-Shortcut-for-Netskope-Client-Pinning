@@ -15,6 +15,7 @@ https://github.com/user-attachments/assets/1022f2d2-ce8d-4bea-8987-774842488bb7
 1. Clone or download this repository.
 2. Open the file `Netskope Data Center Selection.shortcut` and click **Add Shortcut**.
 3. A menu will appear offering multiple options for changing or reviewing the current Netskope Data Center or region selection.
+4. When selecting a region, you can quick select by typing the applicable region number.
 
 **Note:**
 The first time you select an option, macOS may prompt for permission to run scripts or access certain folders.  
