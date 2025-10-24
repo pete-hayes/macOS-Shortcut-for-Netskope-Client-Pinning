@@ -19,6 +19,14 @@ The first time you select an option, macOS may prompt for permission to run scri
 - Operations that modify the Netskope Client configuration are executed through shell scripts.  
 - Each permission must be granted for the corresponding menu option to function properly.
 
+### Invoking the Shortcut
+
+You can run the Shortcut directly from the macOS Shortcuts app, but it’s often more convenient to trigger it using one of the following methods:
+- **Menu Bar:** Enable “Pin Netskope Data Center” in the Shortcuts section of the macOS menu bar for quick access without opening the app.  
+- **Keyboard Shortcut:** Assign a hotkey to open the Shortcut.
+- **Macro Key/Stream Deck:** Map the Shortcut to a macro key or Stream Deck button.  
+- **Spotlight/Siri:** Run it by typing or saying the Shortcut name, e.g., “Run Netskope Data Center Selection.”
+
 ## License
 Licensed under MIT — free to use, modify, and share, with no warranty.
 
