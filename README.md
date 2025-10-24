@@ -9,7 +9,7 @@ A macOS Shortcut that provides a simple menu-driven interface to pin, unpin, or 
 See https://docs.netskope.com/en/data-center-pinning-in-netskope-client for more details.
 
 ## Demo
-https://github.com/user-attachments/assets/1022f2d2-ce8d-4bea-8987-774842488bb7
+https://github.com/user-attachments/assets/fcaf9273-c51f-4bae-b163-095095e0d4c2
 
 ## Usage
 1. Clone or download this repository.
