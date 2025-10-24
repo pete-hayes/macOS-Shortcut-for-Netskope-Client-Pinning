@@ -1,0 +1,1 @@
+# macOS-Shortcut-for-Netskope-Client-Pinning
