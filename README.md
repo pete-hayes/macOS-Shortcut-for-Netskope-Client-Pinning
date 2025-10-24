@@ -15,7 +15,7 @@ See https://docs.netskope.com/en/data-center-pinning-in-netskope-client for more
 
 **Note:**
 The first time you select an option, macOS may prompt for permission to run scripts or access certain folders.  
-- The Data Center region list is stored and updated in a file located at `~/Documents/nsdiag_countries.txt`.  
+- The Data Center region list is stored and updated in a file located at `/tmp/nsdiag_countries.txt`.  
 - Operations that modify the Netskope Client configuration are executed through shell scripts.  
 - Each permission must be granted for the corresponding menu option to function properly.
 
