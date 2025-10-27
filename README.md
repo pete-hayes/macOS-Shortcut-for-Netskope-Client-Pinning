@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/fcaf9273-c51f-4bae-b163-095095e0d4c2
 **Note:**
 The first time you select an option, macOS will prompt for permission to run scripts and access a folder.  
 - The Data Center region list is stored and updated in a file located at `/tmp/nsdiag_countries.txt`.  
-- Operations that modify the Netskope Client configuration are executed through shell scripts.  
+- Operations that modify the Netskope Client configuration are executed through shell commands.  
 - Each permission must be granted for the corresponding menu option to function properly.
 
 ### Triggering the Shortcut
